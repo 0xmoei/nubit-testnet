@@ -44,7 +44,7 @@ sudo cat $HOME/nubit-node/mnemonic.txt
 # Check logs
 screen -r nubit
 
-## minimze again
+# minimze again
 CTRL + A + D
 ```
 
