@@ -13,6 +13,8 @@ A native Bitcoin DA layer has announced that its Alpha testnet incentive program
 
 <h1 align="center"> Nubit Light DA Node </h1>
 
+> Light Node is a phase 2 task but better you run it now
+
 ## System Requirements
 | Ram | cpu     | disk                      |
 | :-------- | :------- | :-------------------------------- |
