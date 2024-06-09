@@ -2,7 +2,7 @@
 
 ## Official Links
  * [Moei Twitter](https://twitter.com/0xMoei)
- * [Nubit Discord]([https://discord.gg/0glabs](https://discord.gg/nubit))
+ * [Nubit Discord](https://discord.gg/nubit)
    
 <h1 align="center"> Nubit Incentivized Alpha Testnet </h1>
 
@@ -19,3 +19,6 @@ A native Bitcoin DA layer has announced that its Alpha testnet incentive program
 | `500MB`      | `Signle Core` | `+30GB SSD` |
 
 ## Install
+```console
+dd
+```
