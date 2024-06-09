@@ -18,7 +18,8 @@ A native Bitcoin DA layer has announced that its Alpha testnet incentive program
 | :-------- | :------- | :-------------------------------- |
 | `500MB`      | `Signle Core` | `+30GB SSD` |
 
-## Install
+## Dependecies
 ```console
-dd
+sudo apt-get update && sudo apt-get upgrade -y 
+sudo apt-get install curl screen git-all build-essential glibc-source pkg-config libssl-dev clang git-lfs -y
 ```
