@@ -28,13 +28,31 @@ sudo apt-get install curl screen git-all build-essential glibc-source pkg-config
 # Open a screen
 screen -S nubit
 
-# Install and Run
+## Install and Run
 curl -sL1 https://nubit.sh | bash
 ```
 > You can minimze the screen with Ctrl+A+D
 
-# Save Mnemonic (12 Words)
+## Save Mnemonic (12 Words)
 ```console
 sudo cat $HOME/nubit-node/mnemonic.txt
 ```
+## Optional: Logs
+```console
+# Check logs
+screen -r nubit
 
+## minimze again
+CTRL + A + D
+```
+
+## Optional: Restart Node (if needed)
+```console
+cd $HOME && cd nubit-node
+./start.sh
+```
+
+## Optional: Delete node
+```console
+ rm -rf $HOME/nubit-node $HOME/.nubit-light-nubit-alphatestnet-1
+```
