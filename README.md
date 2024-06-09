@@ -23,3 +23,18 @@ A native Bitcoin DA layer has announced that its Alpha testnet incentive program
 sudo apt-get update && sudo apt-get upgrade -y 
 sudo apt-get install curl screen git-all build-essential glibc-source pkg-config libssl-dev clang git-lfs -y
 ```
+## Install & Run
+```console
+# Open a screen
+screen -S nubit
+
+# Install and Run
+curl -sL1 https://nubit.sh | bash
+```
+> You can minimze the screen with Ctrl+A+D
+
+# Save Mnemonic (12 Words)
+```console
+sudo cat $HOME/nubit-node/mnemonic.txt
+```
+
