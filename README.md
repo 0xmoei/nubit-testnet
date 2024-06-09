@@ -9,8 +9,11 @@
 A native Bitcoin DA layer has announced that its Alpha testnet incentive program is now live. The Alpha testnet event is divided into three phases: community assembly, light node missions, and testnet adventures, with incentives offered at each stage.
 
 > Phase 1 is active
+> 
 > Join [Testnet Dashboard](https://alpha.nubit.org)
+> 
 > Remember to get faucet [here](https://faucet.nubit.org/)
+> 
 > You'd better first to run a light node then use your node wallet to connect to the dashboard
 
 <h1 align="center"> Nubit Light DA Node </h1>
