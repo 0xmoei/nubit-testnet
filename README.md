@@ -44,6 +44,12 @@ curl -sL1 https://nubit.sh | bash
 ```console
 sudo cat $HOME/nubit-node/mnemonic.txt
 ```
+
+## Faucet
+> Get Your address [Here](https://alpha.nubit.org)
+>
+> Faucet for your wallet [here](https://faucet.nubit.org/)
+
 ## Optional: Logs
 ```console
 # Check logs
