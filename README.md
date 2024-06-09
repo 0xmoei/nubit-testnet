@@ -30,7 +30,7 @@ sudo apt-get install curl screen git-all build-essential glibc-source pkg-config
 # Open a screen
 screen -S nubit
 
-## Install and Run
+# Install and Run
 curl -sL1 https://nubit.sh | bash
 ```
 > You can minimze the screen with Ctrl+A+D
