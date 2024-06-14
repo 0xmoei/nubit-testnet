@@ -17,5 +17,6 @@ curl -sL1 https://nubit.sh/ | bash
 Ctrl+A+D
 ```
 
-> Save you PUBKEY & AUTHKEY 
-![Uploading Screenshot_66.png…]()
+> Save you PUBKEY & AUTHKEY
+
+![Screenshot_66](https://github.com/0xmoei/nubit-testnet/assets/90371338/9e989e9c-4051-472d-9fe6-e7242ef63bdf)
