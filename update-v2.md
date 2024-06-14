@@ -18,3 +18,4 @@ Ctrl+A+D
 ```
 
 > Save you PUBKEY & AUTHKEY 
+![Uploading Screenshot_66.png…]()
