@@ -1,4 +1,4 @@
-# Update Nubit Light Node to V2
+# Update Nubit Light Node version
 
 ```console
 # List screens
